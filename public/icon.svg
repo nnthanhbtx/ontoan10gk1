@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071126"/>
+      <stop offset="50%" stop-color="#0b1739"/>
+      <stop offset="100%" stop-color="#040817"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="28" y="28" width="456" height="456" rx="92" fill="none" stroke="url(#accent)" stroke-width="10" stroke-opacity="0.45"/>
+  <text x="155" y="325" font-family="Georgia, 'Times New Roman', serif" font-size="220" font-weight="bold" fill="#22d3ee" text-anchor="middle">∑</text>
+  <text x="345" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="165" font-weight="900" fill="#fbbf24" text-anchor="middle">10</text>
+  <text x="256" y="425" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="800" fill="#e2e8f0" letter-spacing="6" text-anchor="middle">TOÁN 10</text>
+</svg>

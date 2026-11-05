@@ -1,0 +1,6 @@
+{
+  "name": "Khảo Thí Toán 10 - Hệ Thống Đánh Giá Năng Lực Chuẩn 2025",
+  "description": "Ứng dụng kiểm tra và đánh giá năng lực môn Toán lớp 10 chuẩn cấu trúc 4 phần theo chương trình GDPT 2018 với 25 năm kinh nghiệm sư phạm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
